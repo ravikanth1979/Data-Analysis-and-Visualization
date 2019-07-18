@@ -1,0 +1,36 @@
+Regions
+Low & middle income
+IDA total
+World
+High income
+OECD members
+Post-demographic dividend
+Europe & Central Asia
+European Union
+IDA & IBRD total
+East Asia & Pacific
+Middle income
+IBRD only
+Late-demographic dividend
+Euro area
+Upper middle income
+East Asia & Pacific (excluding high income)
+East Asia & Pacific (IDA & IBRD countries)
+North America
+Early-demographic dividend
+Latin America & Caribbean
+Europe & Central Asia (IDA & IBRD countries)
+Latin America & the Caribbean (IDA & IBRD countries)
+Latin America & Caribbean (excluding high income)
+Europe & Central Asia (excluding high income)
+Central Europe and the Baltics
+Sub-Saharan Africa (excluding high income)
+Sub-Saharan Africa
+Sub-Saharan Africa (IDA & IBRD countries)
+IDA only
+Small states
+Least developed countries: UN classification
+Heavily indebted poor countries (HIPC)
+Fragile and conflict affected situations
+Low income
+
